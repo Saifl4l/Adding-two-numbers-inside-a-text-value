@@ -8,3 +8,4 @@ def addStrNums(num1: str, num2: str) -> str:
         return sumf
     except:
         return "-1"
+    print('the program is finished
